@@ -51,6 +51,9 @@ App sẽ mở tại `http://localhost:5173`
 - Giá trị khởi tạo đơn giản (primitive values, object literals nhỏ)
 - Performance không phải vấn đề quan trọng
 
+**Hình ảnh thực tế
+<img width="1886" height="355" alt="image" src="https://github.com/user-attachments/assets/65ebbdf4-db56-4c73-9f2e-7817f6cc8a24" />
+
 ## 🛠️ Tech Stack
 
 - React 18
