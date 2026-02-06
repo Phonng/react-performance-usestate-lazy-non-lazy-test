@@ -20,10 +20,10 @@ cd react-performance-test
 npm install
 
 # Chạy app
-npm start
+npm run dev
 ```
 
-App sẽ mở tại `http://localhost:3000`
+App sẽ mở tại `http://localhost:5173`
 
 ## 📊 Cách sử dụng
 
@@ -54,7 +54,7 @@ App sẽ mở tại `http://localhost:3000`
 ## 🛠️ Tech Stack
 
 - React 18
-- Create React App
+- Vite
 - Performance API
 
 ## 📝 License
